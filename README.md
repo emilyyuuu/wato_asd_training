@@ -4,6 +4,9 @@ An autonomous robot navigation system built with **ROS2** that allows a simulate
 
 This project was completed as part of the **WATonomous Autonomous Software training**, focusing on robotics software architecture and autonomous navigation.
 
+## Demo
+https://www.youtube.com/watch?v=EhbpIKTd3rA
+
 ## Features
 
 **LiDAR-Based Mapping**
@@ -27,10 +30,6 @@ This project was completed as part of the **WATonomous Autonomous Software train
 - **ROS2**
 - **Docker**
 - **Foxglove Studio**
-
-## Demo
-
-[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=EhbpIKTd3rA)
 
 ## Installation
 
